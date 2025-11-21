@@ -8,7 +8,7 @@
             Padding="30,0"
             Spacing="25">
             <Image
-                Source="tokugawa.jpg"
+                Source="tokugawa.jpeg"
                 HeightRequest="250"
                 Aspect="AspectFit"
                 SemanticProperties.Description="Tokugawa Ieyasu, wise strategic genius" />
